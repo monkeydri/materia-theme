@@ -43,11 +43,11 @@
     </linearGradient>
 
     <linearGradient id="color-accent">
-      <stop stop-color="#009688"/>
+      <stop stop-color="#03A9F4"/>
     </linearGradient>
 
     <linearGradient id="color-accent-disabled">
-      <stop stop-color="#009688" stop-opacity="0.5"/>
+      <stop stop-color="#03A9F4" stop-opacity="0.5"/>
     </linearGradient>
 
     <linearGradient id="color-bg">
