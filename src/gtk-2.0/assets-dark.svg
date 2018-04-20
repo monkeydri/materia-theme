@@ -7,19 +7,19 @@
 
   <defs>
     <linearGradient id="color-fg">
-      <stop stop-color="#FFFFFF"/>
+      <stop stop-color="#03A9F4"/>
     </linearGradient>
 
     <linearGradient id="color-fg-disabled">
-      <stop stop-color="#FFFFFF" stop-opacity="0.5"/>
+      <stop stop-color="#03A9F4" stop-opacity="0.5"/>
     </linearGradient>
 
     <linearGradient id="color-fg-secondary">
-      <stop stop-color="#FFFFFF" stop-opacity="0.7"/>
+      <stop stop-color="#03A9F4" stop-opacity="0.7"/>
     </linearGradient>
 
     <linearGradient id="color-fg-secondary-disabled">
-      <stop stop-color="#FFFFFF" stop-opacity="0.3"/>
+      <stop stop-color="#03A9F4" stop-opacity="0.3"/>
     </linearGradient>
 
     <linearGradient id="color-divider">
